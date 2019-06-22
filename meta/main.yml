@@ -1,0 +1,8 @@
+---
+galaxy_info:
+  role_name: juankakode.base-tools
+  author: "juankakode"
+  description: "base server tools"
+  min_ansible_version: "2.4"
+
+dependencies: []
